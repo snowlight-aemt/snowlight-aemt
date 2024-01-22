@@ -17,8 +17,8 @@
 
 ## 🔥 Interests
 
-- 세컨드 브레인
-- 개발 문화
+- Second Brain
+- Dev Culture
 
 <!--
 chat.openai.com
