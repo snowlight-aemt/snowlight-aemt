@@ -15,6 +15,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowlight-aemt&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowlight-aemt&layout=compact)
 
+## 🔥 Interests
+
+- 세컨드 브레인
+- 개발 문화
 
 <!--
 chat.openai.com
@@ -50,7 +54,7 @@ const snowlight-aemt = {
         },
         frontEnd: {
             js: ["React"]
-        }
+        },
         devOps: ["Jenkins", "Docker🐳", "Eureka", "Gateway"],
         databases: ["Oracle", "MySql"],
         message: ["Redis", "Kafka"],
