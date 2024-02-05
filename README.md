@@ -19,6 +19,7 @@
 
 - 🧠 Second Brain
 - 🪴 Dev Culture
+- 🔖 Async programming
 
 <!--
 chat.openai.com
