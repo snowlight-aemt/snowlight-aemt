@@ -51,7 +51,7 @@ const snowlight-aemt = {
         backEnd: {
             java: ["Spring", "Jpa", "JDK17"],
             kotlin: ["Spring", "Jpa"],
-            js: ["Express", "NodeJs"]
+            js: ["Express", "NodeJs", "Knex"]
         },
         frontEnd: {
             js: ["React"]
