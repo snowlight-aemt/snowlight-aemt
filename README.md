@@ -45,7 +45,7 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
 ## 🌿 About Me ... 
 ```javascript
 const snowlight-aemt = {
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Javascript", "Java", "Kotlin", "C#"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
         backEnd: {
@@ -56,7 +56,7 @@ const snowlight-aemt = {
         frontEnd: {
             js: ["React"]
         },
-        devOps: ["Jenkins", "Docker🐳", "Eureka", "Gateway"],
+        devOps: ["Jenkins", "Docker", "Eureka", "Gateway"],
         databases: ["Oracle", "MySql"],
         message: ["Redis", "Kafka"],
         misc: ["Socket.IO", "Swagger"]
