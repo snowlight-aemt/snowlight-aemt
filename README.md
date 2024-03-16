@@ -18,11 +18,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowlight-aemt&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowlight-aemt&layout=compact)
 
-## 🔥 Interests
-
-- 🧠 Second Brain
-- 🪴 Dev Culture
+## 🔥 Interests -
 - 🔖 Async programming
+- 🪴 Dev Culture
+- 🧠 Second Brain
 
 <!--
 chat.openai.com
@@ -45,7 +44,7 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
 </div>
 -->
     
-## 🌿 About Me ... 
+## 🌿 About Me .
 ```javascript
 const snowlight-aemt = {
     code: ["Javascript", "Java", "Kotlin", "C#"],
