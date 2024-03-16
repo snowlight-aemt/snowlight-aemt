@@ -19,9 +19,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowlight-aemt&layout=compact)
 
 ## 🔥 Current Interests -
-- 🔖 Async programming
-- 🪴 Dev Culture
-- 🧠 Second Brain
+- 🔖 비동기 프로그래밍
+- 🪴 개발 문화
+- 🧠 세컨드 브레인
 
 <!--
 chat.openai.com
